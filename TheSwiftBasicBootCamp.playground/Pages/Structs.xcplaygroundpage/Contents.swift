@@ -174,7 +174,7 @@ import Foundation
     }
     
     var user3: UserDataModel3 = UserDataModel3(name: "Meg", isPremium: false)
-    user3 = user3.markUserAsPremium(newValue: true)
+    user3 = user3.markUserAsPremium3(newValue: true)
     
     // Mutating Mutable structs from within
     
