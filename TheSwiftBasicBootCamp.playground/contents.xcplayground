@@ -12,5 +12,6 @@
         <page name='Access Control '/>
         <page name='Arrays &amp; Sets'/>
         <page name='Dictionaries'/>
+        <page name='Loops'/>
     </pages>
 </playground>
