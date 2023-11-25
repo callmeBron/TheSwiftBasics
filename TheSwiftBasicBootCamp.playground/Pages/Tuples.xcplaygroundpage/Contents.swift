@@ -1,5 +1,4 @@
-//: [Previous](@previous)
-
+import Foundation
 // Rundown of Tuple object
 
 /// all of the functions we have so far created have only returned us one piece of data but what if in our app we wanted to return multiple pieces of data?
@@ -65,7 +64,4 @@ let premiumStatus = info2.premiumStatus
 
 /// it allows us to group mulitple pieces of data together
 
-
-
-//: [Next](@next)
 

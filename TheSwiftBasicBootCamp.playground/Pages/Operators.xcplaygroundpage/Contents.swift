@@ -1,5 +1,3 @@
-//: [Previous](@previous)
-
 import UIKit
 
 // we are using doubles because we are going to do math within this example, generally when doing something with math i.e. division you want to stick to using doubles rather than integers as they go beyond just a whole number.
@@ -114,4 +112,4 @@ if likeCount > 3 && commentCount > 0 || viewCount > 50 {
 
 /// in this example the order of operations will come into play and the above will be read as such by the complier " if (likeCount > 3 && commentCount > 0) || viewCount > 50"
 
-//: [Next](@next)
+

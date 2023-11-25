@@ -1,7 +1,4 @@
-//: [Previous](@previous)
 import Foundation
-import UIKit
-import SwiftUI
 
 //Access Control Basics
 
@@ -139,4 +136,3 @@ print(manager.movie1)
 /// If objects arent marked as private they are seen as public/internal and the rule of thumb is everything should be as private as possible so we can set up expectations for the specific object.
 /// This habit will make your code easier to read and debug
 
-//: [Next](@next)

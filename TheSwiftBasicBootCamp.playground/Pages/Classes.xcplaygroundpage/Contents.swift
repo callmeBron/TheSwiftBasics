@@ -1,5 +1,3 @@
-//: [Previous](@previous)
-
 import Foundation
 
 // Class Basics
@@ -134,4 +132,3 @@ viewModel3.hideButton()
 
 viewModel3.showButton = false
 
-//: [Next](@next)

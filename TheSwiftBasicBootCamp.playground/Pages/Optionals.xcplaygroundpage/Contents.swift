@@ -1,5 +1,3 @@
-//: [Previous](@previous)
-
 import UIKit
 
 //in swift we have optionals and at their core they are a piece of data which may or may not have a value..
@@ -261,4 +259,4 @@ func getUserData() {
 
 
 
-//: [Next](@next)
+

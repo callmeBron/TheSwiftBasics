@@ -1,5 +1,3 @@
-//: [Previous](@previous)
-
 import Foundation
 
 // Understanding enums
@@ -130,5 +128,3 @@ enum CarBrands2 {
     }
 }
 
-
-//: [Next](@next)

@@ -1,5 +1,3 @@
-//: [Previous](@previous)
-
 import Foundation
 
     // Welcome to everything Struct related
@@ -202,6 +200,3 @@ import Foundation
         }
     }
 
-
-
-//: [Next](@next)

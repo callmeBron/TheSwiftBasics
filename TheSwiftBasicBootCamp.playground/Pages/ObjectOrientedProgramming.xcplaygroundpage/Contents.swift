@@ -1,5 +1,3 @@
-//: [Previous](@previous)
-
 import SwiftUI
 
 // this is going to be a high level of object oriented programming in terms of swift
@@ -112,4 +110,3 @@ class MyFirstClass() {
 // Data Models
 // objects we want to create and pass around our app
 
-//: [Next](@next)

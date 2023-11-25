@@ -1,5 +1,3 @@
-//: [Previous](@previous)
-
 import UIKit
 // previously we were learning all the coding basics and writing them essentially in one file, but moving on to acutal apps ..
 // when building apps you dont want to have all your code in a singular file, instead you want to have them in multiple files which encompass functions that we can call within the app
@@ -176,6 +174,3 @@ var calculatedVariable: Int {
 }
 
 // this will execute everytime you call it, if you dont need to pass a function paramaters, then this becomes good and useful...
-
-
-//: [Next](@next)
