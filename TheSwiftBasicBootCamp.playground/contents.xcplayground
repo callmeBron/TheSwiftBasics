@@ -13,5 +13,7 @@
         <page name='Arrays &amp; Sets'/>
         <page name='Dictionaries'/>
         <page name='Loops'/>
+        <page name='Data Manipulation'/>
+        <page name='Protocols'/>
     </pages>
 </playground>
